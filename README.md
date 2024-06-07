@@ -1,6 +1,7 @@
 # On-Device AI using Qualcomm
 
-## AI Used: Qualcomm AI Hub
+<img width="479" alt="image" src="https://github.com/Lekhansh-cmd/Qualcomm-On-Device-AI/assets/78807364/bc16a034-5b3e-4d36-a5ad-03babd62605d">
+
 
 ## OVERVIEW
 This project by DeepLearning.AI explores the use of Qualcomm AI Hub for on-device AI applications. The key areas of focus include:
@@ -10,6 +11,8 @@ This project by DeepLearning.AI explores the use of Qualcomm AI Hub for on-devic
 3. Deploying Segmentation Models On-Device
 4. Preparing for On-Device Deployment
 5. Quantizing Models
+
+AI Used: Qualcomm AI Hub
 
 ## OBJECTIVE
 The primary objective of this project is to study and implement On-Device AI, specifically:
